@@ -1,18 +1,18 @@
 ![Google_Cloud_CLI__SDK_Setup_-_BLog](https://user-images.githubusercontent.com/72663288/139324330-e6e95b12-a65d-43b9-8932-b0a8ecce7ae8.jpg)
 
-# Gcloud-SDK is a gcloud sdk installer & CLI setup for termux & linux versions without any errors .
+# 🔰 Gcloud-SDK is a gcloud sdk installer & CLI setup for termux & linux versions without any errors .
 
-# Features :
+# 🔰 Features :
 
 * Easy Steps For installation
 * No any errors .
 * Support for both termux & linux versions
 
-# Benifits :
+# 🔰 Benifits :
 
 Google Cloud SDK is a set of tools for accessing Google public cloud platform in a secure way. It contains essential tools for maintaining, managing and monitoring Google Cloud Platform (GCP). It is equivalent of Amazon Web Services CLI
 
-# Script Installation
+# 🔥 Script Installation
 
 ```
 apt update
