@@ -2,6 +2,7 @@
 #coding: utf-8
 #AUTHOR : DEVIL MASTER
 #GITHUB - https://github.com/isuruwa
+#Make proper Credits When you copy
 
 re='\e[1;31m'
 white='\e[1;37m'
