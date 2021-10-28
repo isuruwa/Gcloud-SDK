@@ -42,3 +42,6 @@
 ## 🥳 Step 11 - Enjoy
 ![11](https://user-images.githubusercontent.com/72663288/139321048-2134bebf-740a-4866-b90f-df02caa328a0.jpg)
 
+<break>
+ 
+## 😎 Additional Resources for experts - <a href="https://github.com/cs231n/gcloud">cs231n Gcloud </a>
