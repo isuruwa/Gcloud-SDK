@@ -1,4 +1,35 @@
-# Gcloud-SDK
+![Google_Cloud_CLI__SDK_Setup_-_BLog](https://user-images.githubusercontent.com/72663288/139324330-e6e95b12-a65d-43b9-8932-b0a8ecce7ae8.jpg)
+
+# Gcloud-SDK is a gcloud sdk installer & CLI setup for termux & linux versions without any errors .
+
+# Features :
+
+* Easy Steps For installation
+* No any errors .
+* Support for both termux & linux versions
+
+# Benifits :
+
+Google Cloud SDK is a set of tools for accessing Google public cloud platform in a secure way. It contains essential tools for maintaining, managing and monitoring Google Cloud Platform (GCP). It is equivalent of Amazon Web Services CLI
+
+# Script Installation
+
+```
+apt update
+apt upgrade
+apt install git ruby
+apt install toilet figlet
+gem install lolcat
+git clone https://github.com/isuruwa/Gcloud-SDK
+cd Gcloud-SDK
+bash sdk.sh
+
+```
+# Installation in linux
+
+Same as installation inside termux , but little bit different
+
+# Installtion in Termux 
 
 ## ✅ Step 1 - After script installation go to step 1
 
@@ -47,5 +78,15 @@
 ## 😎 Additional Resources for experts
  
 * <a href="https://github.com/cs231n/gcloud">cs231n Gcloud </a>
-* <a href="https://cloud.google.com/sdk/docs/cheatsheet> Cloud Google </a>
-          
+* <a href="https://cloud.google.com/sdk/docs/cheatsheet"> Cloud Google </a>
+       
+---
+### ❤️Supporters❤️ 
+[![Stars @isuruwa/Gcloud-SDK](https://reporoster.com/stars/dark/isuruwa/Gcloud-SDK)](https://github.com/isuruwa/Gcloud-SDK/stargazers)
+
+[![Forks @isuruwa/MSF-Gcloud-SDK](https://reporoster.com/forks/dark/isuruwa/Gcloud-SDK)](https://github.com/isuruwa/Gcloud-SDK/network/members)
+---
+
+# DONATE ME VIA :
+  
+<a href="https://pastebin.com/iHWvSB3p"><img src="https://img.icons8.com/cute-clipart/64/000000/bitcoin.png"/>
