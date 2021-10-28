@@ -1,4 +1,15 @@
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/DevilMaster-Gcloud--SDK-brightgreen?style=for-the-badge&logo=appveyor"></a>
+<br>
+
 ![Google_Cloud_CLI__SDK_Setup_-_BLog](https://user-images.githubusercontent.com/72663288/139324330-e6e95b12-a65d-43b9-8932-b0a8ecce7ae8.jpg)
+
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisuruwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
+<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwagckoudsdk" />
+</p>
+
+<br>
 
 # 🔰 Gcloud-SDK is a gcloud sdk installer & CLI setup for termux & linux versions without any errors .
 
