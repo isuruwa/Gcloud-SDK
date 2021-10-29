@@ -86,7 +86,7 @@ Same as installation inside termux , but little bit different
 
 <break>
  
-## 😎 Additional Resources for experts
+## 😎 Additional Resources
  
 * <a href="https://github.com/cs231n/gcloud">cs231n Gcloud </a>
 * <a href="https://cloud.google.com/sdk/docs/cheatsheet"> Cloud Google </a>
